@@ -1,0 +1,406 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "one",
+      "request": "launch",
+      "mainClass": "backTrack.N_queens.one",
+      "projectName": "apna-college2_684df2d8"
+    },
+    {
+      "type": "java",
+      "name": "Rotated",
+      "request": "launch",
+      "mainClass": "divideandcon.Rotated",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "Quick",
+      "request": "launch",
+      "mainClass": "divideandcon.Quick",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "sumDiagonal",
+      "request": "launch",
+      "mainClass": "two_d_arrays.sumDiagonal",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "sortAlgo",
+      "request": "launch",
+      "mainClass": "sorting.sortAlgo",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "trappingRainwater",
+      "request": "launch",
+      "mainClass": "arrays.trappingRainwater",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "sumSubArray3",
+      "request": "launch",
+      "mainClass": "arrays.sumSubArray3",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "largest",
+      "request": "launch",
+      "mainClass": "arrays.largest",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "linearSearch",
+      "request": "launch",
+      "mainClass": "arrays.linearSearch",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "area",
+      "request": "launch",
+      "mainClass": "basic.area",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "average",
+      "request": "launch",
+      "mainClass": "basic.average",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "basics",
+      "request": "launch",
+      "mainClass": "basic.basics",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "calc",
+      "request": "launch",
+      "mainClass": "basic.calc",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "cost",
+      "request": "launch",
+      "mainClass": "basic.cost",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "basic.hello",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "input",
+      "request": "launch",
+      "mainClass": "basic.input",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "product",
+      "request": "launch",
+      "mainClass": "basic.product",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "squarearea",
+      "request": "launch",
+      "mainClass": "basic.squarearea",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "basic.sum",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "basic.test",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "variable",
+      "request": "launch",
+      "mainClass": "basic.variable",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "binCoefficient",
+      "request": "launch",
+      "mainClass": "functions.binCoefficient",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "functions.factorial",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "funcOverloading",
+      "request": "launch",
+      "mainClass": "functions.funcOverloading",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "helloWorld",
+      "request": "launch",
+      "mainClass": "functions.helloWorld",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "functions.prime",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "primeRange",
+      "request": "launch",
+      "mainClass": "functions.primeRange",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "product(1)",
+      "request": "launch",
+      "mainClass": "functions.product",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "sum(1)",
+      "request": "launch",
+      "mainClass": "functions.sum",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "calc(1)",
+      "request": "launch",
+      "mainClass": "if_else.calc",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "second1",
+      "request": "launch",
+      "mainClass": "if_else.second1",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "switchOne",
+      "request": "launch",
+      "mainClass": "if_else.switchOne",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "tax",
+      "request": "launch",
+      "mainClass": "if_else.tax",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "ternary",
+      "request": "launch",
+      "mainClass": "if_else.ternary",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "two",
+      "request": "launch",
+      "mainClass": "if_else.two",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "factorial(1)",
+      "request": "launch",
+      "mainClass": "loops.factorial",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "prime(1)",
+      "request": "launch",
+      "mainClass": "loops.prime",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "printNum",
+      "request": "launch",
+      "mainClass": "loops.printNum",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "loops.reverse",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "sum(2)",
+      "request": "launch",
+      "mainClass": "loops.sum",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "character",
+      "request": "launch",
+      "mainClass": "patterns.character",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "halfPyramind",
+      "request": "launch",
+      "mainClass": "patterns.halfPyramind",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "starOne",
+      "request": "launch",
+      "mainClass": "patterns.starOne",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "starTwo",
+      "request": "launch",
+      "mainClass": "patterns.starTwo",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "butterfly",
+      "request": "launch",
+      "mainClass": "patterns_2.butterfly",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "floydsTri",
+      "request": "launch",
+      "mainClass": "patterns_2.floydsTri",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "hollowRect",
+      "request": "launch",
+      "mainClass": "patterns_2.hollowRect",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "hollowRhombus",
+      "request": "launch",
+      "mainClass": "patterns_2.hollowRhombus",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "numPyramind",
+      "request": "launch",
+      "mainClass": "patterns_2.numPyramind",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "numTri",
+      "request": "launch",
+      "mainClass": "patterns_2.numTri",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "rhombus",
+      "request": "launch",
+      "mainClass": "patterns_2.rhombus",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "star1",
+      "request": "launch",
+      "mainClass": "patterns_2.star1",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "average(1)",
+      "request": "launch",
+      "mainClass": "sixth.average",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "binaryToDec",
+      "request": "launch",
+      "mainClass": "sixth.binaryToDec",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "decToBin",
+      "request": "launch",
+      "mainClass": "sixth.decToBin",
+      "projectName": "apna-college2_862e43d6"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "sixth.palindrome",
+      "projectName": "apna-college2_862e43d6"
+    }
+  ]
+}
