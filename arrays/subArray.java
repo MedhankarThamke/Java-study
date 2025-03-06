@@ -35,7 +35,7 @@ class subArray {
     }
 
     public static void main(String args[]) {
-        int nums[] = { 2, 12 };
+        int nums[] = { 2, 12, 3, 4 };
         subArrays(nums);
     }
 
